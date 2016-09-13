@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2016년 Crema 신입개발자 채용
-author: Crema
+title: 2016년 CREMA 신입개발자 채용
+author: CREMA
 author-email: career@cre.ma
 excerpt: 국내에서 트래픽 가장 많은 RoR 서비스를 같이 운영하고 싶으신 분. 기초 탄탄한 개발자로 성장하고 싶으신 분. 같이 세계적인 기업으로 회사를 성장하실 분. 크리마에서 RoR 개발자를 모십니다.
 publish: true
@@ -9,7 +9,7 @@ publish: true
 ---
 
 ### 회사소개
-더누보는 [크리마](http://www.cre.ma) 솔루션을 개발합니다. 크리마의 비전은 쇼핑몰이 핵심 가치인 상품 선택과 고객관리에 집중할 수 있도록 필요한 모든 Backend Infrastructure를 제공하는 것입니다.
+더누보는 [CREMA](http://www.cre.ma) 솔루션을 개발합니다. 크리마의 비전은 쇼핑몰이 핵심 가치인 상품 선택과 고객관리에 집중할 수 있도록 필요한 모든 Backend Infrastructure를 제공하는 것입니다.
 
 이 비전을 향해 가기 위해, 크리마는 2013년 11월부터 약 3년간 "크리마 리뷰"와 "크리마 타겟"을 개발 및 운영해왔습니다. 현재 국내 최고의 쇼핑몰들을 포함한 500여개의 쇼핑몰이 크리마를 이용하고 있으며 계속 성장중입니다.
 
