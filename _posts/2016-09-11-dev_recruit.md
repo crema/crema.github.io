@@ -3,7 +3,7 @@ layout: post
 title: 2016년 Crema 신입개발자 채용
 author: Crema
 author-email: career@cre.ma
-excerpt: 국내에서 트래픽 가장 많은 RoR 서비스를 같이 운영하고 싶으신 분. 실력에 비해 저평가되었다고 생각하는 분, 국내 이커머스 생태계를 혁신하고 싶으신 분. 크리마에서 RoR 개발자를 모십니다.
+excerpt: 국내에서 트래픽 가장 많은 RoR 서비스를 같이 운영하고 싶으신 분. 기초 탄탄한 개발자로 성장하고 싶으신 분. 같이 세계적인 기업으로 회사를 성장하실 분. 크리마에서 RoR 개발자를 모십니다.
 publish: true
 
 ---
