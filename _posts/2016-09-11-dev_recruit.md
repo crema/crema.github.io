@@ -21,6 +21,7 @@ publish: true
 
 ### 업무
 Ruby on Rails 기반으로 간편리뷰, 타겟, 신규 서비스 등의 웹서비스 개발 및 유지보수. 모든 팀원이 모든 업무를 Job Queue 방식으로 하고 있기 때문에 개발하는 모든 서비스의 모든 스택에 대한 개발을 하게 될것입니다.
+
 - 프론트엔드 웹 개발(쇼핑몰 삽입 위젯 & 서비스 페이지, 관리자 페이지): HTML, CSS, JavaScript
 - API 서버 개발: Ruby on Rails
 - 백그라운드 프로세서(통계 분석 및 자료 크롤링 등): Ruby on Rails
