@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018년 CREMA Lab Senior DevOps 채용
+title: 2018년 CREMA Lab Senior DevOps 채용(종료)
 author: Crema
 author-email: career@cre.ma
 excerpt: 국내에서 트래픽 가장 많은 RoR 서비스의 서버 인프라스트럭쳐를 설계하고 싶으신 분. 국내 이커머스 생태계를 혁신하고 싶으신 분. CREMA Lab에서 Senior DevOps Engineer를 모십니다.
