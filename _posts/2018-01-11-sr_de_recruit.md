@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018년 CREMA Lab Senior Data Engineer 채용
+title: 2018년 CREMA Lab Senior Data Engineer 채용(종료)
 author: Crema
 author-email: career@cre.ma
 excerpt: 국내에서 트래픽 가장 많은 RoR 서비스의 서버 인프라스트럭쳐를 설계하고 싶으신 분. 국내 이커머스 생태계를 혁신하고 싶으신 분. CREMA Lab에서 Senior Data Engineer Engineer를 모십니다.
@@ -24,9 +24,11 @@ publish: true
 
 ### 채용 프로세스
 - 입사 지원
-- 서류전형 - 코딩테스트
-- 면접전형 - 1차 실무면접, 2차 임원면접
-- 최종합격
+- 1차 서류 전형
+- 2차 온라인 프로그래밍 테스트
+- 3차 Video Conference 면접
+- 4차 방문 면접
+- 최종 합격
 
 ### 주요업무
 - 데이터 수집, 저장, 분석, 활용을 위한 구조 설계

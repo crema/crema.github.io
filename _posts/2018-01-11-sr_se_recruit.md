@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018년 CREMA Lab Senior Software Engineer 채용
+title: 2018년 CREMA Lab Senior Software Engineer 채용(종료)
 author: Crema
 author-email: career@cre.ma
 excerpt: 국내에서 트래픽 가장 많은 RoR 서비스의 빅 데이터를 활용해 획기적으로 편리한 고객 관리 시스템을 만들고 싶으신 분. 국내 이커머스 생태계를 혁신하고 싶으신 분. CREMA Lab 개발팀에서 Senior Software Engineer를 모십니다.
@@ -38,9 +38,11 @@ Fit 개발팀은 세 개의 팀 중 가장 Lean 합니다. 2018년 1월에 CREMA
 
 ### 채용 프로세스
 - 입사 지원
-- 서류전형 - 코딩테스트
-- 면접전형 - 1차 실무면접, 2차 임원면접
-- 최종합격
+- 1차 서류 전형
+- 2차 온라인 프로그래밍 테스트
+- 3차 Video Conference 면접
+- 4차 방문 면접
+- 최종 합격
 
 ### 주요업무
 - Ruby on Rails 기반으로 Target 서비스 개발 및 유지보수. 모든 팀원이 모든 업무를 Job Queue 방식으로 하고 있기 때문에 Target 서비스 관련 모든 스택의 개발을 하게 될 것입니다.
