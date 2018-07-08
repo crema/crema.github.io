@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018년 CREMA Lab Visual Designer 채용
+title: 2018년 CREMA Lab Visual Designer 채용(종료)
 author: Crema
 author-email: career@cre.ma
 excerpt: 국내에서 트래픽 가장 많은 RoR 서비스의 빅 데이터를 활용해 획기적으로 편리한 고객 관리 시스템을 만들고 싶으신 분. 국내 이커머스 생태계를 혁신하고 싶으신 분. CREMA Lab 디자인팀에서 Visual Designer를 모십니다.
