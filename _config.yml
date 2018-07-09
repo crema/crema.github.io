@@ -5,7 +5,7 @@ email: dev@cre.ma
 description: > # this means to ignore newlines until "baseurl:"
   Crema 개발자 블로그. 크리마 간편리뷰(Crema Review), 크리마 타겟(Crema Target), 크리마 리마인딩(Crema Reminding) 개발 및 운영 중.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cre.ma" # the base hostname & protocol for your site
+url: "https://crema.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: crema
 
