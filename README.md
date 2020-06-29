@@ -1,14 +1,7 @@
-# Jekyll-Pithy
+## Crema Dev Blog
 
-Jekyll-Pithy is a theme for Jekyll. Here is [my blog](http://wenva.github.io) which use this theme.
-
-![image](https://raw.githubusercontent.com/smallmuou/Jekyll-Pithy/master/images/Jekyll-Pithy.png)
-
-### Usage
-* Clone it.
-* cd Jekyll-Pithy, and Run "jekyll serve"(You must install [jekyll](http://jekyllrb.com/) first)
-* Open web browser and enter "http://127.0.0.1:4000/", you can see the web page like snapshot above.
-* If you want to host you blog on Github Page, you can follow the steps provide by Github.
+### Description
+Crema 개발자 블로그. 크리마 간편리뷰(Crema Review), 크리마 타겟(Crema Target), 크리마 핏(Crema Fit) 개발 및 운영 중.
 
 ### License
 The code follows MIT License.
