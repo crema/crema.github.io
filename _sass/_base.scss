@@ -35,6 +35,10 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+p {
+    word-break: keep-all;
+}
+
 
 
 /**
